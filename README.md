@@ -1,7 +1,7 @@
 # NTUA_Computer_Networks_Lab
 - NTUA ECE CNLAB 2024
 - Laboratory Class (Flow D) of the 8th Semester
-- Contains exercises, solutions and important .ova files
+- Contains exercises and solutions 
 
 1. Introduction to Virtual Box and FreeBSD
 2. Networking in Virtual Box
